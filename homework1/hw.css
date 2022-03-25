@@ -1,0 +1,60 @@
+
+body{
+	font-family: sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+
+}
+
+#social{
+	background-color: black;
+	color: white;
+	width: 100%;
+	position: sticky; top: 0;
+	font-size: 20px;
+	text-align: center;
+	padding: 15px;
+
+}
+
+#ust{
+
+	margin-top: 50px;
+	margin-bottom: 250px;
+}
+
+.resim{
+	text-align: left;
+	margin-left:  550px;
+	float:left;
+}
+.iletisim{
+	text-align: center;
+	margin-right: 550px;
+	background-color: #B7CADB;
+	width: 200px;
+	height: 200px;
+	float: right;
+	
+}
+
+#genel{
+	
+	margin-right: 300px;
+	margin-left: 300px;
+	font-size: 18px;
+	
+
+
+}
+
+#başlık{
+	background-color: #B7CADB;
+	margin-right: 300px;
+	margin-left: 300px;
+	font-size: 25px;
+
+}
+
